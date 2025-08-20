@@ -1,5 +1,9 @@
 # EDtunnel
 
+```js
+https://github.com/6Kmfi6HP/EDtunnel
+```
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/6Kmfi6HP/EDtunnel/refs/heads/main/image/logo.png" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
